@@ -310,7 +310,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2229526535365564809, guid: f51727cd2cac34d4baac9d8f43640825, type: 3}
       propertyPath: looping
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2229526535365564810, guid: f51727cd2cac34d4baac9d8f43640825, type: 3}
       propertyPath: m_RootOrder
